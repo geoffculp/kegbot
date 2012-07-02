@@ -86,7 +86,7 @@ Follow this section for all Kegbot Server installations.
 
 Open the file ``~/.kegbot/local_settings.py`` in your favorite text editor.
 Look for the section labeled "Media and Static Files", and edit the MEDIA_ROOT
-and STATIC_ROOT directory locations.::
+and STATIC_ROOT directory locations::
 
 MEDIA_ROOT = '/path/to/media/'
 STATIC_ROOT = '/path/to/static'
